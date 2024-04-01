@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Casa do Pet</title>
+    Casa do Pet
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="logo">
-            <img src="logo_casadopet.png" alt="Logo Casa do Pet">
+            <img src="logo casa do pet.png" alt="Logo Casa do Pet">
         </div>
         <nav>
             <ul>
