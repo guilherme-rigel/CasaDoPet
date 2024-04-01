@@ -10,7 +10,8 @@
 <body>
     <header>
         <div class="logo">
-            <img src="logo casa do pet.png" alt="Logo Casa do Pet">
+            <img src="![logo casa do pet](https://github.com/guilherme-rigel/CasaDoPet/assets/154554232/8d6d4d84-25f3-4e5e-b9b7-304bbd4ab3ee)
+" alt="Logo Casa do Pet">
         </div>
         <nav>
             <ul>
