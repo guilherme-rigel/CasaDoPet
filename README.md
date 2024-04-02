@@ -141,10 +141,10 @@
             <div class="social-media">
                 <h3>Redes Sociais</h3>
                 <ul>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/facebook%20logo.png?raw=true" alt="Facebook" width="70" height="50"></a></li>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/facebook%20logo.png?raw=true" alt="Facebook" width="80" height="50"></a></li>
                     <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/twitter%20logo.png?raw=true" alt="Twitter" width="60" height="50"></a></li>
                     <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/instagram%20logo.png?raw=true" alt="Instagram" width="50" height="50"></a></li>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/youtube%20logo.png?raw=true" alt="YouTube" width="80" height="50"></a></li>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/youtube%20logo.png?raw=true" alt="YouTube" width="71" height="50"></a></li>
                 </ul>
             </div>
         </div>
