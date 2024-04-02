@@ -74,4 +74,80 @@
                 <a href="#">Agendar</a>
             </div>
             <div class="servico">
-                <img src="https://github.com/guilherme
+                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/veterinario%20consulta.png?raw=true" alt="Serviço Consulta" width="200" height="200">
+                <h3>Consulta</h3>
+                <p>Nossos veterinários atendem cães e gatos de todas as idades, com consultas completas e preços acessíveis.</p>
+                <a href="#">Agendar</a>
+            </div>
+            <div class="servico">
+                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/assinar.png?raw=true" alt="Seja um Assinante" width="200" height="200">
+                <h3>Seja um Assinante</h3>
+                <p>Assine nossos serviços e receba produtos exclusivos e descontos especiais para o seu pet.</p>
+                <a href="#">Assinar</a>
+            </div>
+            <div class="servico">
+                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/curso%20dr%20pet.png?raw=true" alt="Cursos Dr. Pet" width="200" height="200">
+                <h3>Cursos Dr. Pet</h3>
+                <p>Aprenda tudo sobre cuidados com o seu pet com os nossos cursos online.</p>
+                <a href="#">Ver Cursos</a>
+            </div>
+        </section>
+        <section class="newsletter">
+            <div class="container">
+                <h2>Cadastre-se e receba nossas promoções via e-mail, únicas e direcionadas ao seu pet!</h2>
+                <form action="#">
+                    <input type="email" placeholder="Seu e-mail">
+                    <select name="pet">
+                        <option value="cachorro">Cachorro</option>
+                        <option value="gato">Gato</option>
+                        <option value="outros">Outros</option>
+                    </select>
+                    <button type="submit">Cadastrar</button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <h3>Sobre Nós</h3>
+                <ul>
+                    <li><a href="#">Quem Somos</a></li>
+                    <li><a href="#">Atendimento</a></li>
+                    <li><a href="#">Amigo Pet</a></li>
+                    <li><a href="#">Trabalhe Conosco</a></li>
+                    <li><a href="#">Ouvidoria</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h3>Mundo Pet</h3>
+                <ul>
+                    <li><a href="#">Nossas Lojas</a></li>
+                    <li><a href="#">Serviços</a></li>
+                    <li><a href="#">Mundo Pet</a></li>
+                    <li><a href="#">Sobre Nós</a></li>
+                    <li><a href="#">Dúvidas</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h3>Especiais</h3>
+                <ul>
+                    <li><a href="#">Promoções</a></li>
+                    <li><a href="#">Novidades</a></li>
+                    <li><a href="#">Eventos</a></li>
+                    <li><a href="#">Blog</a></li>
+                </ul>
+            </div>
+            <div class="social-media">
+                <h3>Redes Sociais</h3>
+                <ul>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/facebook%20logo.png?raw=true" alt="Facebook" width="50" height="50"></a></li>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/twitter%20logo.png?raw=true" alt="Twitter" width="50" height="50"></a></li>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/instagram%20logo.png?raw=true" alt="Instagram" width="50" height="50"></a></li>
+                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/youtube%20logo.png?raw=true" alt="YouTube" width="50" height="50"></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
