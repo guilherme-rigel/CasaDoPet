@@ -26,128 +26,84 @@
         </div>
     </header>
     <main>
-        <section class="banner">
-            <img src="banner_casadopet.jpg" alt="Banner Casa do Pet">
-        </section>
+        <!-- Carrossel de Imagens -->
+        <div class="carousel-container">
+            <div class="carousel-slide">
+                <img class="carousel-image" src="banner1.jpg" alt="Banner 1">
+                <img class="carousel-image" src="banner2.jpg" alt="Banner 2">
+                <img class="carousel-image" src="banner3.jpg" alt="Banner 3">
+            </div>
+            <button class="prev-btn">&#10094;</button>
+            <button class="next-btn">&#10095;</button>
+        </div>
+
+        <!-- Restante do conteúdo -->
         <section class="promocao">
             <h2>TODO SITE 15% OFF</h2>
             <p>Aproveite nossa promoção e economize em compras para o seu pet!</p>
             <a href="#">Saiba Mais</a>
         </section>
         <section class="produtos-em-destaque">
-            <h2>Produtos em Destaque</h2>
-            <div class="produto">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/ra%C3%A7ao%20golden.jpg?raw=true" alt="Ração Golden Fórmula Mini Bits para Cães Adultos Sabor Frango e Arroz 15 Kg" width="200" height="200">
-                <h3>Ração Golden Fórmula Mini Bits</h3>
-                <p>Sabor Frango e Arroz 15 Kg</p>
-                <span class="preco">R$ 165,90</span>
-                <a href="#">Comprar</a>
-            </div>
-            <div class="produto">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/ra%C3%A7ao%20hills.jpg?raw=true" alt="Ração Hills Science Diet para Cães Adultos de Grande Porte Sabor Frango 12kg" width="200" height="200">
-                <h3>Ração Hills Science Diet</h3>
-                <p>Sabor Frango 12kg</p>
-                <span class="preco">R$ 479,99</span>
-                <a href="#">Comprar</a>
-            </div>
-            <div class="produto">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/bolinha%20lcm.jpg?raw=true" alt="Bolinha LCM Cravinho Cores Sortidas" width="200" height="200">
-                <h3>Bolinha LCM Cravinho</h3>
-                <p>Cores Sortidas</p>
-                <span class="preco">R$ 11,99</span>
-                <a href="#">Comprar</a>
-            </div>
-            <div class="produto">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/whiskas.jpg?raw=true" alt="Ração Úmida Whiskas Sachê para Gatos Adultos Sabor Cordeiro ao Molho - 85g" width="200" height="200">
-                <h3>Ração Úmida Whiskas</h3>
-                <p>Sabor Cordeiro ao Molho - 85g</p>
-                <span class="preco">R$ 3,49</span>
-                <a href="#">Comprar</a>
-            </div>
+            <!-- Produtos em Destaque -->
+            <!-- Seu código de produtos em destaque aqui -->
         </section>
         <section class="servicos">
-            <h2>Conheça Nossos Serviços</h2>
-            <div class="servico">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/banho%20e%20tosa.png?raw=true" alt="Serviço Banho e Tosa" width="200" height="200">
-                <h3>Banho e Tosa</h3>
-                <p>Oferecemos um serviço completo de banho e tosa para o seu pet, com profissionais experientes e carinhosos.</p>
-                <a href="#">Agendar</a>
-            </div>
-            <div class="servico">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/veterinario%20consulta.png?raw=true" alt="Serviço Consulta" width="200" height="200">
-                <h3>Consulta</h3>
-                <p>Nossos veterinários atendem cães e gatos de todas as idades, com consultas completas e preços acessíveis.</p>
-                <a href="#">Agendar</a>
-            </div>
-            <div class="servico">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/assinar.png?raw=true" alt="Seja um Assinante" width="200" height="200">
-                <h3>Seja um Assinante</h3>
-                <p>Assine nossos serviços e receba produtos exclusivos e descontos especiais para o seu pet.</p>
-                <a href="#">Assinar</a>
-            </div>
-            <div class="servico">
-                <img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/curso%20dr%20pet.png?raw=true" alt="Cursos Dr. Pet" width="200" height="200">
-                <h3>Cursos Dr. Pet</h3>
-                <p>Aprenda tudo sobre cuidados com o seu pet com os nossos cursos online.</p>
-                <a href="#">Ver Cursos</a>
-            </div>
+            <!-- Seus serviços aqui -->
         </section>
         <section class="newsletter">
-            <div class="container">
-                <h2>Cadastre-se e receba nossas promoções via e-mail, únicas e direcionadas ao seu pet!</h2>
-                <form action="#">
-                    <input type="email" placeholder="Seu e-mail">
-                    <select name="pet">
-                        <option value="cachorro">Cachorro</option>
-                        <option value="gato">Gato</option>
-                        <option value="outros">Outros</option>
-                    </select>
-                    <button type="submit">Cadastrar</button>
-                </form>
-            </div>
+            <!-- Seção de Newsletter -->
         </section>
     </main>
     <footer>
-        <div class="container">
-            <div class="footer-links">
-                <h3>Sobre Nós</h3>
-                <ul>
-                    <li><a href="#">Quem Somos</a></li>
-                    <li><a href="#">Atendimento</a></li>
-                    <li><a href="#">Amigo Pet</a></li>
-                    <li><a href="#">Trabalhe Conosco</a></li>
-                    <li><a href="#">Ouvidoria</a></li>
-                </ul>
-            </div>
-            <div class="footer-links">
-                <h3>Mundo Pet</h3>
-                <ul>
-                    <li><a href="#">Nossas Lojas</a></li>
-                    <li><a href="#">Serviços</a></li>
-                    <li><a href="#">Mundo Pet</a></li>
-                    <li><a href="#">Sobre Nós</a></li>
-                    <li><a href="#">Dúvidas</a></li>
-                </ul>
-            </div>
-            <div class="footer-links">
-                <h3>Especiais</h3>
-                <ul>
-                    <li><a href="#">Promoções</a></li>
-                    <li><a href="#">Novidades</a></li>
-                    <li><a href="#">Eventos</a></li>
-                    <li><a href="#">Blog</a></li>
-                </ul>
-            </div>
-            <div class="social-media">
-                <h3>Redes Sociais</h3>
-                <ul>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/facebook%20logo.png?raw=true" alt="Facebook" width="80" height="50"></a></li>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/twitter%20logo.png?raw=true" alt="Twitter" width="60" height="50"></a></li>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/instagram%20logo.png?raw=true" alt="Instagram" width="50" height="50"></a></li>
-                    <li><a href="#"><img src="https://github.com/guilherme-rigel/CasaDoPet/blob/main/youtube%20logo.png?raw=true" alt="YouTube" width="71" height="50"></a></li>
-                </ul>
-            </div>
-        </div>
+        <!-- Seu rodapé aqui -->
     </footer>
+
+    <!-- Script do carrossel com CSS -->
+    <script>
+        const prevBtn = document.querySelector('.prev-btn');
+        const nextBtn = document.querySelector('.next-btn');
+        const slide = document.querySelector('.carousel-slide');
+
+        let counter = 0;
+        const size = slide.children[0].offsetWidth;
+
+        // Estilos CSS para o carrossel
+        slide.style.display = 'flex';
+        slide.style.transition = 'transform 0.5s ease';
+
+        nextBtn.style.position = 'absolute';
+        nextBtn.style.top = '50%';
+        nextBtn.style.right = '0';
+        nextBtn.style.transform = 'translateY(-50%)';
+        nextBtn.style.cursor = 'pointer';
+        nextBtn.style.padding = '10px';
+        nextBtn.style.background = 'rgba(0, 0, 0, 0.5)';
+        nextBtn.style.color = 'white';
+        nextBtn.style.border = 'none';
+        nextBtn.style.outline = 'none';
+
+        prevBtn.style.position = 'absolute';
+        prevBtn.style.top = '50%';
+        prevBtn.style.left = '0';
+        prevBtn.style.transform = 'translateY(-50%)';
+        prevBtn.style.cursor = 'pointer';
+        prevBtn.style.padding = '10px';
+        prevBtn.style.background = 'rgba(0, 0, 0, 0.5)';
+        prevBtn.style.color = 'white';
+        prevBtn.style.border = 'none';
+        prevBtn.style.outline = 'none';
+
+        nextBtn.addEventListener('click', () => {
+            if (counter >= slide.children.length - 1) return;
+            counter++;
+            slide.style.transform = `translateX(${-size * counter}px)`;
+        });
+
+        prevBtn.addEventListener('click', () => {
+            if (counter <= 0) return;
+            counter--;
+            slide.style.transform = `translateX(${-size * counter}px)`;
+        });
+    </script>
 </body>
 </html>
