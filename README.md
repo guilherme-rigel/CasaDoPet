@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="https://github.com/guilherme-rigel/CasaDoPet/assets/154554232/8d6d4d84-25f3-4e5e-b9b7-304bbd4ab3ee)](https://github.com/guilherme-rigel/CasaDoPet/blob/main/logo%20casa%20do%20pet.png
+            <img src="[https://github.com/guilherme-rigel/CasaDoPet/assets/154554232/8d6d4d84-25f3-4e5e-b9b7-304bbd4ab3ee)](https://github.com/guilherme-rigel/CasaDoPet/blob/main/logo%20casa%20do%20pet.png](https://github.com/guilherme-rigel/CasaDoPet/blob/main/logo%20casa%20do%20pet.png?raw=true)
 " alt="Logo Casa do Pet">
         </div>
         <nav>
